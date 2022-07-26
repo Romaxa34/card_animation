@@ -105,4 +105,12 @@ html {
   background: url("https://bipbap.ru/wp-content/uploads/2018/06/ee1939bdb52e91ba455fad89f48a2998-640x968.jpg");
   background-size: cover;
   background-position: center;
+}
+
+.massege {
+  max-width: 350px;
+}
+
+.tel {
+  margin: 50px 0px 0px 100px;
 }/*# sourceMappingURL=style.css.map */
